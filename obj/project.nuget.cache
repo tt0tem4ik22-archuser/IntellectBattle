@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZKBdK8azwYU=",
+  "success": true,
+  "projectFilePath": "/home/tt0tem4ik22/CSharpProjects/IntellectBattle/IntellectBattle.csproj",
+  "expectedPackageFiles": [
+    "/home/tt0tem4ik22/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

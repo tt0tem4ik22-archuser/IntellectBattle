@@ -1,0 +1,14 @@
+/home/tt0tem4ik22/CSharpProjects/IntellectBattle/obj/Debug/net10.0/IntellectBattle.GeneratedMSBuildEditorConfig.editorconfig
+/home/tt0tem4ik22/CSharpProjects/IntellectBattle/obj/Debug/net10.0/IntellectBattle.AssemblyInfoInputs.cache
+/home/tt0tem4ik22/CSharpProjects/IntellectBattle/obj/Debug/net10.0/IntellectBattle.AssemblyInfo.cs
+/home/tt0tem4ik22/CSharpProjects/IntellectBattle/obj/Debug/net10.0/IntellectBattle.csproj.CoreCompileInputs.cache
+/home/tt0tem4ik22/CSharpProjects/IntellectBattle/bin/Debug/net10.0/IntellectBattle
+/home/tt0tem4ik22/CSharpProjects/IntellectBattle/bin/Debug/net10.0/IntellectBattle.deps.json
+/home/tt0tem4ik22/CSharpProjects/IntellectBattle/bin/Debug/net10.0/IntellectBattle.runtimeconfig.json
+/home/tt0tem4ik22/CSharpProjects/IntellectBattle/bin/Debug/net10.0/IntellectBattle.dll
+/home/tt0tem4ik22/CSharpProjects/IntellectBattle/bin/Debug/net10.0/IntellectBattle.pdb
+/home/tt0tem4ik22/CSharpProjects/IntellectBattle/obj/Debug/net10.0/IntellectBattle.dll
+/home/tt0tem4ik22/CSharpProjects/IntellectBattle/obj/Debug/net10.0/refint/IntellectBattle.dll
+/home/tt0tem4ik22/CSharpProjects/IntellectBattle/obj/Debug/net10.0/IntellectBattle.pdb
+/home/tt0tem4ik22/CSharpProjects/IntellectBattle/obj/Debug/net10.0/IntellectBattle.genruntimeconfig.cache
+/home/tt0tem4ik22/CSharpProjects/IntellectBattle/obj/Debug/net10.0/ref/IntellectBattle.dll

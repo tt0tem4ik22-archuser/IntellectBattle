@@ -1,0 +1,15 @@
+int
+str
+int('123')
+#
+my_list.append(a)
+def func(a, b):
+return c
+len(my_list)
+import math
+round(3.14159, 2)
+list(range(1,6))
+else:
+if 3 in nums:
+{1,2,3}
+dict

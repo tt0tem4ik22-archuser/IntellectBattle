@@ -1,0 +1,15 @@
+print("Hello, world!")
+int
+a = 10
+#
+8
+len(my_list)
+list(range(1,6))
+int('123')
+my_list.append(a)
+else:
+for i in range(5): print("Привет!")
+if 3 in nums:
+<class 'str'>
+P
+str
